@@ -36,9 +36,9 @@ const config: MenuEntry[] = [
   //   href: '/pools',
   // },
   {
-    label: 'Dividends',
+    label: 'Auto-PLATIN',
     icon: 'TicketIcon',
-    href: '/profit',
+    href: '/auto',
   },
   // {
   //   label: 'NFT',
@@ -56,10 +56,6 @@ const config: MenuEntry[] = [
       {
         label: 'Docs',
         href: 'https://platinum-finance.gitbook.io/platinum-finance/',
-      },
-      {
-        label: 'Medium',
-        href: 'https://medium.com/@daedalusfinancepolygon',
       }
     ],
   },

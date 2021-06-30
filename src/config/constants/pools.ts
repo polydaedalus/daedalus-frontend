@@ -4,7 +4,7 @@ const pools: PoolConfig[] = [
    {
      sousId: 1,
      tokenName: 'WMATIC',
-     stakingTokenName: QuoteToken.platin,
+     stakingTokenName: QuoteToken.PLATIN,
      stakingTokenAddress: '0xF13e6278Da0717235BFC84D535C54461e957feED',
      contractAddress: {
        97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',

@@ -72,12 +72,11 @@ const Farm: React.FC = () => {
       <Hero>
         <div>
           <Heading as="h1" size="xxl" mb="16px">
-            {TranslateString(282, 'Profit Sharing Pool')}
+            {TranslateString(282, 'Auto-PLATIN')}
           </Heading>
           <ul>
-            <li>Stake platin to receive dividend payouts.</li>
-            <li>You can unstake at any time.</li>
-            <li>Let us know which dividend pools you would like next!</li>
+            <li>Stake PLATIN, and our vault will auto-compound your rewards for you.</li>
+            <li>If you decide to unstake before 72 hours have passed since staking, then you will incur a 1% withdrawal fee.</li>
           </ul>
         </div>
       </Hero>

@@ -26,7 +26,7 @@ export enum QuoteToken {
   'BUSD' = 'BUSD',
   'TWT' = 'TWT',
   'UST' = 'UST',
-  'platin' = 'platin',
+  'PLATIN' = 'PLATIN',
   'WBTC' = 'WBTC',
   'WMATIC' = 'WMATIC',
   'QUICK' = 'QUICK',

@@ -37,16 +37,16 @@ const Coming: React.FC = () => {
   return (
     <Card>
       <div style={{ padding: '24px' }}>
-        <CardTitle>platin Dividends</CardTitle>
+        <CardTitle>PLATIN auto-compounding</CardTitle>
         <Image src="/images/egg/9.png" width={64} height={64} alt="Dividends" />
         <br />
-        <Label>Distribution of fee income to platin holders.</Label>
+        <Label>Auto-compounding version of PLATIN pool.</Label>
         <Button variant="secondary" fullWidth mb="16px">
           <span style={{fontSize: 'x-large'}}>Coming soon!</span>
         </Button>
       </div>
       <Footer>
-      <div style={{ flex: 1 }}> Let us know in our TG your dividend preferences!</div>
+      <div style={{ flex: 1 }}> Let us know in our TG your preferences!</div>
       </Footer>
     </Card>
   )

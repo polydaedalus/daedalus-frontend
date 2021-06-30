@@ -2,7 +2,7 @@ export default {
   cake: {
     56: '0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
     97: '',
-    137: '0xF13e6278Da0717235BFC84D535C54461e957feED', // platin
+    137: '0xF13e6278Da0717235BFC84D535C54461e957feED', // Platin
   },
   masterChef: {
     56: '0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57',
