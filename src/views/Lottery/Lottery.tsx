@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
-import { ButtonMenu, ButtonMenuItem } from 'daedalusfinance'
+import { ButtonMenu, ButtonMenuItem } from 'platinumfinance'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import PastLotteryDataContext from 'contexts/PastLotteryDataContext'
 import { getLotteryIssueIndex } from 'utils/lotteryUtils'

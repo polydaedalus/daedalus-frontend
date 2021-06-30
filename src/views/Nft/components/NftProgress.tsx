@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import styled from 'styled-components'
-import { Card, CardBody, Heading, OpenNewIcon, Text, Link as UIKitLink, Progress } from 'daedalusfinance'
+import { Card, CardBody, Heading, OpenNewIcon, Text, Link as UIKitLink, Progress } from 'platinumfinance'
 import { BSC_BLOCK_TIME } from 'config'
 import useI18n from 'hooks/useI18n'
 import useBlock from 'hooks/useBlock'

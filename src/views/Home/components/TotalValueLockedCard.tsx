@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card, CardBody, Heading, Skeleton, Text } from 'daedalusfinance'
+import { Card, CardBody, Heading, Skeleton, Text } from 'platinumfinance'
 import useI18n from 'hooks/useI18n'
 import { useGetStats } from 'hooks/api'
 import { useTotalValue } from '../../../state/hooks'

@@ -1,4 +1,4 @@
-import { MenuEntry } from 'daedalusfinance'
+import { MenuEntry } from 'platinumfinance'
 
 const config: MenuEntry[] = [
   {

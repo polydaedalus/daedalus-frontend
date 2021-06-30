@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading } from 'daedalusfinance'
+import { Heading } from 'platinumfinance'
 
 const Title = styled(Heading).attrs({ size: 'lg' })`
   color: ${({ theme }) => theme.colors.secondary};

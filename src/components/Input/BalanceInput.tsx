@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button } from 'daedalusfinance'
+import { Button } from 'platinumfinance'
 import useI18n from 'hooks/useI18n'
 import Input, { InputProps } from './Input'
 

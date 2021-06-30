@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react'
 import styled from 'styled-components'
-import { Button, Heading, Won, useModal } from 'daedalusfinance'
+import { Button, Heading, Won, useModal } from 'platinumfinance'
 import useI18n from 'hooks/useI18n'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useMultiClaimLottery } from 'hooks/useBuyLottery'

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Progress } from 'daedalusfinance'
+import { Progress } from 'platinumfinance'
 
 interface IfoCardProgressProps {
   progress: number

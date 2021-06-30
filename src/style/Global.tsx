@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 // eslint-disable-next-line import/no-unresolved
-import { PancakeTheme } from 'daedalusfinance'
+import { PancakeTheme } from 'platinumfinance'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */

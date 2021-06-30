@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { Card, CardBody, Text } from 'daedalusfinance'
+import { Card, CardBody, Text } from 'platinumfinance'
 import useI18n from 'hooks/useI18n'
 import { NftProviderContext } from '../contexts/NftProvider'
 import InfoRow from './InfoRow'

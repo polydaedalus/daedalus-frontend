@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
 import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
-import { Button, Heading, Modal, useModal } from 'daedalusfinance'
+import { Button, Heading, Modal, useModal } from 'platinumfinance'
 import useI18n from 'hooks/useI18n'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import rabbitmintingfarm from 'config/abi/rabbitmintingfarm.json'

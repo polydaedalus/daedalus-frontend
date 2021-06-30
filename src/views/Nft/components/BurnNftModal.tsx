@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
-import { Button, Checkbox, Modal, Text } from 'daedalusfinance'
+import { Button, Checkbox, Modal, Text } from 'platinumfinance'
 import useI18n from 'hooks/useI18n'
 import { Nft } from 'config/constants/types'
 import { RABBIT_MINTING_FARM_ADDRESS } from 'config/constants/nfts'

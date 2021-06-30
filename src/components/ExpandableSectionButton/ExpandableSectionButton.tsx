@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { ChevronDownIcon, ChevronUpIcon, Text } from 'daedalusfinance'
+import { ChevronDownIcon, ChevronUpIcon, Text } from 'platinumfinance'
 
 export interface ExpandableSectionButtonProps {
   onClick?: () => void

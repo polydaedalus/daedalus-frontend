@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading, Text } from 'daedalusfinance'
+import { Flex, Heading, Text } from 'platinumfinance'
 
 interface HeadingProps {
   valueToDisplay?: string

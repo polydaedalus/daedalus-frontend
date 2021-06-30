@@ -1,7 +1,7 @@
 import BigNumber from 'bignumber.js'
 import React, { useCallback, useState } from 'react'
 import styled, { keyframes } from 'styled-components'
-import { Button, IconButton, useModal, AddIcon, Image, Flex, Text } from 'daedalusfinance'
+import { Button, IconButton, useModal, AddIcon, Image, Flex, Text } from 'platinumfinance'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import UnlockButton from 'components/UnlockButton'
 import Label from 'components/Label'

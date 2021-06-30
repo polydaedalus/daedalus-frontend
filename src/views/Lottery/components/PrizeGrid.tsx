@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import useI18n from 'hooks/useI18n'
-import { Heading, Text } from 'daedalusfinance'
+import { Heading, Text } from 'platinumfinance'
 
 export interface PrizeGridProps {
   lotteryPrizeAmount?: number

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text, Flex } from 'daedalusfinance'
+import { Heading, Text, Flex } from 'platinumfinance'
 
 interface IfoCardHeaderProps {
   ifoId: string

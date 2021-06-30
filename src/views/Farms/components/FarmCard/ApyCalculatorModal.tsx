@@ -1,7 +1,7 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
-import { Modal, Text, LinkExternal, Flex } from 'daedalusfinance'
+import { Modal, Text, LinkExternal, Flex } from 'platinumfinance'
 import useI18n from 'hooks/useI18n'
 import getLiquidityUrlPathParts from 'utils/getLiquidityUrlPathParts'
 import { calculateCakeEarnedPerThousandDollars, apyModalRoi } from 'utils/compoundApyHelpers'

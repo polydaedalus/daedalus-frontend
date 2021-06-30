@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { useCountUp } from 'react-countup'
-import { Text } from 'daedalusfinance'
+import { Text } from 'platinumfinance'
 
 interface CardValueProps {
   value: number

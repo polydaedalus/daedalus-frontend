@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'daedalusfinance'
+import { Text } from 'platinumfinance'
 
 interface PastRoundCardErrorProps {
   error: {

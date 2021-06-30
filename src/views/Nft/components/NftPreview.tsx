@@ -1,6 +1,6 @@
 import React from 'react'
 import orderBy from 'lodash/orderBy'
-import { Card, CardBody, Heading } from 'daedalusfinance'
+import { Card, CardBody, Heading } from 'platinumfinance'
 import Container from 'components/layout/Container'
 import nfts from 'config/constants/nfts'
 import NftGrid from './NftGrid'
