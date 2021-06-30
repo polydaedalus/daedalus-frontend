@@ -80,7 +80,6 @@ const Farm: React.FC = () => {
           </ul>
         </div>
       </Hero>
-      <CakeStats />
       <br />
 
       <PoolTabButtons />
