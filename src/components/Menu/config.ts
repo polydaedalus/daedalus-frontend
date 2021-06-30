@@ -38,7 +38,7 @@ const config: MenuEntry[] = [
   {
     label: 'Auto-PLATIN',
     icon: 'TicketIcon',
-    href: '/auto',
+    href: '/profit',
   },
   // {
   //   label: 'NFT',

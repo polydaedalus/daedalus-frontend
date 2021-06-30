@@ -76,7 +76,7 @@ const Farm: React.FC = () => {
           </Heading>
           <ul>
             <li>Stake PLATIN, and our vault will auto-compound your rewards for you.</li>
-            <li>If you decide to unstake before 72 hours have passed since staking, then you will incur a 1% withdrawal fee.</li>
+            <li>If you decide to un-stake before 72 hours have passed since staking, then you will incur a 1% withdrawal fee.</li>
           </ul>
         </div>
       </Hero>
