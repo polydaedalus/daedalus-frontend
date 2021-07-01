@@ -32,17 +32,14 @@ const RainbowLight = keyframes`
 const StyledCardAccent = styled.div`
   background: linear-gradient(
     45deg,
-    rgba(255, 0, 0, 1) 0%,
-    rgba(255, 154, 0, 1) 10%,
-    rgba(208, 222, 33, 1) 20%,
-    rgba(79, 220, 74, 1) 30%,
-    rgba(63, 218, 216, 1) 40%,
-    rgba(47, 201, 226, 1) 50%,
-    rgba(28, 127, 238, 1) 60%,
-    rgba(95, 21, 242, 1) 70%,
-    rgba(186, 12, 248, 1) 80%,
-    rgba(251, 7, 217, 1) 90%,
-    rgba(255, 0, 0, 1) 100%
+    rgba(173,173,173,1) 0%, 
+    rgba(250,250,250,1) 8%, 
+    rgba(178,202,203,1) 15%, 
+    rgba(0,212,255,1) 35%, 
+    rgba(255,214,201,1) 57%, 
+    rgba(255,247,245,1) 62%, 
+    rgba(255,215,204,1) 66%, 
+    rgba(66,66,120,1) 100%
   );
   background-size: 300% 300%;
   animation: ${RainbowLight} 2s linear infinite;
@@ -59,7 +56,7 @@ const StyledCardAccent = styled.div`
 const FCard = styled.div`
   align-self: baseline;
   background: ${(props) => props.theme.card.background};
-  border-radius: 32px;
+  border-radius: 16px;
   box-shadow: 0px 2px 12px -8px rgba(25, 19, 38, 0.1), 0px 1px 1px rgba(25, 19, 38, 0.05);
   display: flex;
   flex-direction: column;
