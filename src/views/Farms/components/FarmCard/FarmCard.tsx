@@ -32,17 +32,9 @@ const RainbowLight = keyframes`
 const StyledCardAccent = styled.div`
   background: linear-gradient(
     45deg,
-    rgba(173,173,173,1) 0%, 
-    rgba(250,250,250,1) 8%, 
-    rgba(178,202,203,1) 15%, 
-    rgba(0,212,255,1) 35%, 
-    rgba(255,214,201,1) 57%, 
-    rgba(255,247,245,1) 62%, 
-    rgba(255,215,204,1) 66%, 
-    rgba(66,66,120,1) 100%
-  );
+    rgba(173,173,173,1) 0%, rgba(250,250,250,1) 8%, rgba(178,202,203,1) 22%, rgba(0,212,255,1) 40%, rgba(255,214,201,1) 54%, rgba(255,247,245,1) 62%, rgba(255,215,204,1) 66%, rgba(66,66,120,1) 100%);
   background-size: 300% 300%;
-  animation: ${RainbowLight} 2s linear infinite;
+  animation: ${RainbowLight} 6s linear infinite;
   border-radius: 16px;
   filter: blur(6px);
   position: absolute;
