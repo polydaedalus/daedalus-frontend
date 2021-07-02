@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { useMatchBreakpoints } from '@pancakeswap/uikit'
+import { useMatchBreakpoints } from 'platinumfinance'
 import { Pool } from 'state/types'
 import { useCakeVault } from 'state/hooks'
 import useDelayedUnmount from 'hooks/useDelayedUnmount'

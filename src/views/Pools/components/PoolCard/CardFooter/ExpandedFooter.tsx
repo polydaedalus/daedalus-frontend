@@ -15,7 +15,7 @@ import {
   Button,
   Link,
   HelpIcon,
-} from '@pancakeswap/uikit'
+} from 'platinumfinance'
 import { BASE_BSC_SCAN_URL, BASE_URL } from 'config'
 import { useBlock, useCakeVault } from 'state/hooks'
 import { Pool } from 'state/types'
