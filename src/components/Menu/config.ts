@@ -36,9 +36,14 @@ const config: MenuEntry[] = [
   //   href: '/pools',
   // },
   {
-    label: 'Auto-PLATIN',
-    icon: 'TicketIcon',
-    href: '/profit',
+    label: 'Charts',
+    icon: 'InfoIcon',
+    items: [
+      {
+        label: 'QuickChart',
+        href: 'https://github.com/polydaedalus',
+      }
+    ],
   },
   // {
   //   label: 'NFT',
@@ -46,8 +51,8 @@ const config: MenuEntry[] = [
   //   href: '/nft',
   // },
   {
-    label: 'Info',
-    icon: 'InfoIcon',
+    label: 'More',
+    icon: 'MoreIcon',
     items: [
       {
         label: 'Github',
